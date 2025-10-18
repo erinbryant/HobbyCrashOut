@@ -16,3 +16,4 @@ Search user
 
 +Ideas
   change background color of your page; cam do a color or hexcode for color
+"Crashout about your hobby today!"
