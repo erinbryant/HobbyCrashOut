@@ -13,3 +13,6 @@ Submissions
 Search user
   input full username - return either link to user(?) or no user found
   shows all possible users(up to 1000)
+
++Ideas
+  change background color of your page; cam do a color or hexcode for color
