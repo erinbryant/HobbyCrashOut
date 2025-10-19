@@ -9,28 +9,28 @@ export default function Home() {
         <div className="flex flex-col items-center">
           <div className="w-full h-48 relative rounded-lg overflow-hidden shadow-md">
             <Image
-              src="/images/top1.jpg" // Replace with your actual image path
+              src="/imagesFolder/image1.png" // Replace with your actual image path HobbyCrashOut\frontend\hobbycrashout\imagesFolder\image1.png
               alt="Top Image 1"
               fill
               className="object-cover"
             />
           </div>
           <p className="mt-2 text-center text-sm text-gray-700 dark:text-gray-300">
-            This is the caption for Top Image 1
+            My silly little art :3 - Anaya
           </p>
         </div>
 
         <div className="flex flex-col items-center">
           <div className="w-full h-48 relative rounded-lg overflow-hidden shadow-md">
             <Image
-              src="/images/top2.jpg" // Replace with your actual image path
+              src="/imagesFolder/image2.jpg" // Replace with your actual image path
               alt="Top Image 2"
               fill
               className="object-cover"
             />
           </div>
           <p className="mt-2 text-center text-sm text-gray-700 dark:text-gray-300">
-            This is the caption for Top Image 2
+            Pound cake I made for our Game Dev pre-duel win! - Anaya
           </p>
         </div>
       </div>
@@ -56,28 +56,28 @@ export default function Home() {
         <div className="flex flex-col items-center">
           <div className="w-full h-48 relative rounded-lg overflow-hidden shadow-md">
             <Image
-              src="/images/bottom1.jpg" // Replace with your actual image path
+              src="/imagesFolder/image3.jpg" // Replace with your actual image path
               alt="Bottom Image 1"
               fill
               className="object-cover"
             />
           </div>
           <p className="mt-2 text-center text-sm text-gray-700 dark:text-gray-300">
-            This is the caption for Bottom Image 1
+            Doiley made with .05 thickness made over the course of a week. - Erin 
           </p>
         </div>
 
         <div className="flex flex-col items-center">
           <div className="w-full h-48 relative rounded-lg overflow-hidden shadow-md">
             <Image
-              src="/images/bottom2.jpg" // Replace with your actual image path
+              src="/imagesFolder/image4.jpg" // Replace with your actual image path
               alt="Bottom Image 2"
               fill
               className="object-cover"
             />
           </div>
           <p className="mt-2 text-center text-sm text-gray-700 dark:text-gray-300">
-            This is the caption for Bottom Image 2
+            Glass dragonfly gifted to me from my aunt. - Erin
           </p>
         </div>
       </div>
