@@ -15,7 +15,7 @@ export default function Home() {
               className="object-cover"
             />
           </div>
-          <p className="mt-2 text-center text-sm text-gray-700 dark:text-gray-300">
+          <p className="mt-2 text-center text-sm text-black dark:text-black">
             My silly little art :3 - Anaya
           </p>
         </div>
@@ -29,7 +29,7 @@ export default function Home() {
               className="object-cover"
             />
           </div>
-          <p className="mt-2 text-center text-sm text-gray-700 dark:text-gray-300">
+          <p className="mt-2 text-center text-sm text-black dark:text-black">
             Pound cake I made for our Game Dev pre-duel win! - Anaya
           </p>
         </div>
@@ -62,7 +62,7 @@ export default function Home() {
               className="object-cover"
             />
           </div>
-          <p className="mt-2 text-center text-sm text-gray-700 dark:text-gray-300">
+          <p className="mt-2 text-center text-sm text-black dark:text-black">
             Doiley made with .05 thickness made over the course of a week. - Erin 
           </p>
         </div>
@@ -76,7 +76,7 @@ export default function Home() {
               className="object-cover"
             />
           </div>
-          <p className="mt-2 text-center text-sm text-gray-700 dark:text-gray-300">
+          <p className="mt-2 text-center text-sm text-black dark:text-black">
             Glass dragonfly gifted to me from my aunt. - Erin
           </p>
         </div>
