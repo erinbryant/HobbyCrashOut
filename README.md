@@ -17,3 +17,5 @@ Search user
 +Ideas
   change background color of your page; cam do a color or hexcode for color
 "Crashout about your hobby today!"
+
+Only change to the website would be a new page and a new hyperlink in the users page
